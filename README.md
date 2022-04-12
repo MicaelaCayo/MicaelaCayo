@@ -6,7 +6,7 @@
                        <p>["Pescadores IT" project](https://github.com/MicaelaCayo/PescadoresIt)</p>
 
 - 🌱 I’m currently learning: 
-                       <p>**On my university ( "UNT" ): C, JS, Arduino.**</p>
+                       <p>**On my university ( "UTN" ): C, JS, Arduino.**</p>
                        <p>**On a scholarship ( "Paths to the future" ): HTML3, CSS3, JS, Node JS, Mongo DB, GIT, React.**</p>
                        <p>**On another scholarship ( "WGD" ): Blockchain, AI, BigData.**</p>
                        <p>**Learning by myself: Python, Java.**</p>
